@@ -9,6 +9,5 @@
 이렇게 됩니다.
 
 ## 📌 개요
-- ㅁㄴㅇ
-- ㅁㄴㅇㅁ
-- ㅁㄴㅇㅁㄴㅇ
+- System Verilog를 활용한 RV32I Single Cycle Core 구현  
+- RISC-V 구조의 이해   
